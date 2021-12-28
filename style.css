@@ -1,0 +1,40 @@
+body {
+	color: rgba(0,0,0,.5);
+	background: linear-gradient(to right, red, blue);
+}
+h1{
+	margin: 10px;
+}
+h2{
+	margin: 10px;
+}
+h3{
+	margin: 10px;
+}
+
+.radious {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.radious {
+	border-radius: 12px;
+	cursor: pointer;
+}
+
+#coloring {
+   font-size: 40px;
+   text-align: center;
+   line-height: 100px;
+} 
+
+h1 {
+	text-transform: uppercase;
+}
